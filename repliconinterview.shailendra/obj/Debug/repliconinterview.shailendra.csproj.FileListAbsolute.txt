@@ -1,0 +1,12 @@
+D:\net project\repliconinterview.shailendra\repliconinterview.shailendra\bin\Debug\repliconinterview.shailendra.exe.config
+D:\net project\repliconinterview.shailendra\repliconinterview.shailendra\bin\Debug\repliconinterview.shailendra.exe
+D:\net project\repliconinterview.shailendra\repliconinterview.shailendra\bin\Debug\repliconinterview.shailendra.pdb
+D:\net project\repliconinterview.shailendra\repliconinterview.shailendra\obj\Debug\repliconinterview.shailendra.exe
+D:\net project\repliconinterview.shailendra\repliconinterview.shailendra\obj\Debug\repliconinterview.shailendra.pdb
+C:\Users\Shailu\Desktop\replicon\repliconinterview.shailendra-20181207T160044Z-001\repliconinterview.shailendra\repliconinterview.shailendra\bin\Debug\repliconinterview.shailendra.exe.config
+C:\Users\Shailu\Desktop\replicon\repliconinterview.shailendra-20181207T160044Z-001\repliconinterview.shailendra\repliconinterview.shailendra\bin\Debug\repliconinterview.shailendra.exe
+C:\Users\Shailu\Desktop\replicon\repliconinterview.shailendra-20181207T160044Z-001\repliconinterview.shailendra\repliconinterview.shailendra\bin\Debug\repliconinterview.shailendra.pdb
+C:\Users\Shailu\Desktop\replicon\repliconinterview.shailendra-20181207T160044Z-001\repliconinterview.shailendra\repliconinterview.shailendra\obj\Debug\repliconinterview.shailendra.csprojAssemblyReference.cache
+C:\Users\Shailu\Desktop\replicon\repliconinterview.shailendra-20181207T160044Z-001\repliconinterview.shailendra\repliconinterview.shailendra\obj\Debug\repliconinterview.shailendra.csproj.CoreCompileInputs.cache
+C:\Users\Shailu\Desktop\replicon\repliconinterview.shailendra-20181207T160044Z-001\repliconinterview.shailendra\repliconinterview.shailendra\obj\Debug\repliconinterview.shailendra.exe
+C:\Users\Shailu\Desktop\replicon\repliconinterview.shailendra-20181207T160044Z-001\repliconinterview.shailendra\repliconinterview.shailendra\obj\Debug\repliconinterview.shailendra.pdb
